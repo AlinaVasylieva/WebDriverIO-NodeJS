@@ -1,0 +1,17 @@
+{
+  "name": "webdriverio-nodejs-selenium",
+  "version": "1.0.0",
+  "description": "Sample tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "wdio-mocha-framework": "^0.5.13",
+    "wdio-selenium-standalone-service": "0.0.10",
+    "wdio-spec-reporter": "^0.1.4",
+    "webdriverio": "^4.12.0"
+  }
+}
